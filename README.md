@@ -1,2 +1,2 @@
 # learning
-mining
+basic reading of files completed
